@@ -1,0 +1,25 @@
+.nav-links{
+    display: flex;
+    position: relative;
+    font-size: 20px;
+    background-color: darkviolet;
+    width: 100%;
+    align-items: center;    
+}
+.nav-links li{
+    display: inline-block;
+    list-style: none;
+    padding: 3px 15px;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.header{
+position: relative;
+display: block;
+}
+.header p{
+    display: block;
+}
